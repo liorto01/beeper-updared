@@ -14,7 +14,7 @@ body {
 
 /* Header styles */
 header {
-  background-image: url('/assets/images/Black\ Modern\ Gaming\ YouTube\ Channel\ Art.png'); /* Replace 'your-image.jpg' with your image file name */
+  background-image: url('assets/images/Black\ Modern\ Gaming\ YouTube\ Channel\ Art.png'); /* Replace 'your-image.jpg' with your image file name */
   background-size: cover;
   background-size: 100%;
   background-position: center;
